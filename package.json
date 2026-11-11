@@ -1,0 +1,11 @@
+{
+  "name": "esm-task",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "live-server src"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
